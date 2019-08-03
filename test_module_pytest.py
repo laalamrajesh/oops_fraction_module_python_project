@@ -270,5 +270,6 @@ def test_fraction_ceil_retrun_fraction():
     assert fraction.numerator == 1
 
 
+    
 
 
